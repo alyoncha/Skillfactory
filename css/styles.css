@@ -1,0 +1,42 @@
+.header {
+    padding: 20px;
+    border-bottom: 1px solid rgb(80, 0, 11);
+    text-align: center;
+    background-color: rgb(223, 223, 223);
+}
+
+.header-link {
+    margin: 0 10px;
+}
+
+.main {
+    padding: 20px;
+}
+
+.myphoto{
+    margin: 20px 0px 20px;
+    border: 2px solid rgb(80, 0, 11)
+}
+
+.about {
+    display: flex;
+}
+
+.info {
+    padding-left: 30px;
+}
+
+h2 {
+    margin: 20px 0px 20px;
+}
+.footer {
+    border-top: 1px solid rgb(80, 0, 11);
+    padding: 10px;
+    text-align: center;
+    background-color: rgb(223, 223, 223);
+}
+
+.footer-link {
+    margin: 0 5px;
+}
+
